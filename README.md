@@ -1,5 +1,5 @@
 # DeFi
-My Humble Journal on the world of De-Fi. Come with me
+My Humble Journal on the world of De-Fi. Come with me👇
 
 ## Books
 1. [Automated Market Makers](https://www.amazon.com/Automated-Market-Makers-Decentralized-Cryptocurrency/dp/1484286154)
